@@ -1,1 +1,5 @@
-![프로젝트 명세서](C:\Users\gusdn\Documents\Project.1.jpg)
+![프로젝트 명세서1](https://user-images.githubusercontent.com/50524321/62921909-f90bbd00-bde4-11e9-9678-211d18d850e5.png)
+![프로젝트 명세서2](https://user-images.githubusercontent.com/50524321/62921939-104aaa80-bde5-11e9-8eb7-0a746a2426b3.png)
+![3](https://user-images.githubusercontent.com/50524321/62922009-530c8280-bde5-11e9-8685-fa60f7ab29b4.png)
+![4](https://user-images.githubusercontent.com/50524321/62922012-543daf80-bde5-11e9-8b09-846b54143b7e.png)
+![5](https://user-images.githubusercontent.com/50524321/62922018-56a00980-bde5-11e9-9c1b-ebf793e710cb.png)
